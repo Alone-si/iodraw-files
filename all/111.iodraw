@@ -62,6 +62,9 @@
         <mxCell id="Sed3x0FeM2y7puKAJYc2-22" value="报修申请" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="696" y="359" width="40" height="158" as="geometry" />
         </mxCell>
+        <mxCell id="Sed3x0FeM2y7puKAJYc2-23" value="通知查看" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="748" y="359" width="40" height="158" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
