@@ -525,8 +525,8 @@
         <mxCell id="_btdigBhe4yJsDsopmaF-160" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="945" y="358" width="94" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="_btdigBhe4yJsDsopmaF-161" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;请假ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="868" y="341.5" width="68" height="56" as="geometry" />
+        <mxCell id="_btdigBhe4yJsDsopmaF-161" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;管理员ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="855" y="299" width="68" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
