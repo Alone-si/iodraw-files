@@ -485,7 +485,7 @@
           <mxGeometry x="483" y="579" width="57" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-184" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570.5" y="902" width="78.5" height="73" as="geometry" />
+          <mxGeometry x="570.5" y="914" width="68.5" height="61" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-185" value="" style="endArrow=none;html=1;rounded=0;exitX=0.666;exitY=0.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_btdigBhe4yJsDsopmaF-54" target="_btdigBhe4yJsDsopmaF-184">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -515,7 +515,7 @@
             <mxPoint x="597.5699999999999" y="873" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_btdigBhe4yJsDsopmaF-219" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="_btdigBhe4yJsDsopmaF-25">
+        <mxCell id="_btdigBhe4yJsDsopmaF-219" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_btdigBhe4yJsDsopmaF-220" target="_btdigBhe4yJsDsopmaF-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="168" y="985" as="sourcePoint" />
             <mxPoint x="197" y="1007" as="targetPoint" />
@@ -527,7 +527,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-220" value="入住" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="128" y="975" width="80" height="80" as="geometry" />
+          <mxGeometry x="128" y="994" width="65" height="61" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-221" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_btdigBhe4yJsDsopmaF-220" target="_btdigBhe4yJsDsopmaF-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -547,7 +547,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-226" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="472.25" y="896" width="78.5" height="73" as="geometry" />
+          <mxGeometry x="472.25" y="909" width="70.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-228" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_btdigBhe4yJsDsopmaF-135" target="_btdigBhe4yJsDsopmaF-226">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
