@@ -421,7 +421,7 @@
           <mxGeometry x="599.5" y="773" width="94" height="54" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-161" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;管理员ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="582" y="558" width="68" height="56" as="geometry" />
+          <mxGeometry x="650" y="568" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-162" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;姓名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="784" y="610" width="68" height="56" as="geometry" />
@@ -430,7 +430,7 @@
           <mxGeometry x="848" y="658" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-164" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;手机号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="547" width="68" height="56" as="geometry" />
+          <mxGeometry x="718" y="576" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-165" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;密码&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="413" y="729" width="68" height="56" as="geometry" />
@@ -509,7 +509,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_btdigBhe4yJsDsopmaF-202" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_btdigBhe4yJsDsopmaF-161" target="_btdigBhe4yJsDsopmaF-160">
+        <mxCell id="_btdigBhe4yJsDsopmaF-202" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_btdigBhe4yJsDsopmaF-161" target="_btdigBhe4yJsDsopmaF-160">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="547.5699999999999" y="923" as="sourcePoint" />
             <mxPoint x="597.5699999999999" y="873" as="targetPoint" />
