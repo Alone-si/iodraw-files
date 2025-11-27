@@ -620,6 +620,9 @@
         <mxCell id="_btdigBhe4yJsDsopmaF-179" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="436.5" y="633" width="47" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="_btdigBhe4yJsDsopmaF-184" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="577" y="683" width="47" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
