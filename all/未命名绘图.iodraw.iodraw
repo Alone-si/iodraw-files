@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="rQOdWEfuD-yTHSHeeUlS">
-    <mxGraphModel dx="887" dy="602" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1330" dy="903" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -322,16 +322,16 @@
           <mxGeometry x="767.5" y="923.5" width="98" height="54" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-105" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;通知ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="935" y="785" width="68" height="56" as="geometry" />
+          <mxGeometry x="920" y="802" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-106" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;通知类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="846" y="798" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-107" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;标题&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1003" y="825" width="68" height="56" as="geometry" />
+          <mxGeometry x="960" y="854" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-108" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;内容&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="976" y="891.5" width="68" height="56" as="geometry" />
+          <mxGeometry x="931" y="913" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-109" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;发布时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="773.5" y="813.4" width="68" height="56" as="geometry" />
@@ -482,7 +482,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-173" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="475" y="708" width="57" height="56" as="geometry" />
+          <mxGeometry x="495" y="778" width="57" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-184" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="1004" width="68.5" height="61" as="geometry" />
