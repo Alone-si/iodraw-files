@@ -529,13 +529,13 @@
           <mxGeometry x="435.85" y="685.5" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-162" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;姓名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="449" y="473.5" width="68" height="56" as="geometry" />
+          <mxGeometry x="445" y="498" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-163" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;用户名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="513" y="427" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-164" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;手机号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="406" y="571" width="68" height="56" as="geometry" />
+          <mxGeometry x="413" y="623" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-165" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;密码&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="494" y="724" width="68" height="56" as="geometry" />
@@ -593,7 +593,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-173" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="521.5" width="47" height="43" as="geometry" />
+          <mxGeometry x="426" y="560" width="47" height="43" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-184" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="577" y="683" width="47" height="50" as="geometry" />
