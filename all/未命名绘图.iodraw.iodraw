@@ -370,19 +370,19 @@
           <mxGeometry x="323.5" y="917.8999999999999" width="108" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-136" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;请假ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="1122.1" width="68" height="56" as="geometry" />
+          <mxGeometry x="221" y="853.9999999999999" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-137" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;请假类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="31.5" y="1035.1" width="68" height="56" as="geometry" />
+          <mxGeometry x="255" y="794.9999999999999" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-138" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;审批状态&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="754" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-139" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;请假时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="989.71" width="68" height="56" as="geometry" />
+          <mxGeometry x="459" y="848" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-140" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;请假原因&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="466" y="966.0999999999999" width="68" height="56" as="geometry" />
+          <mxGeometry x="413" y="791.9999999999999" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-141" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.656;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_btdigBhe4yJsDsopmaF-135" target="_btdigBhe4yJsDsopmaF-136">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
