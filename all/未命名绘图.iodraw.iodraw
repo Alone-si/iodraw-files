@@ -604,6 +604,11 @@
             <mxPoint x="724" y="839" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_btdigBhe4yJsDsopmaF-247" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_btdigBhe4yJsDsopmaF-241">
+          <mxGeometry x="-0.8473" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-242" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_btdigBhe4yJsDsopmaF-184" target="_btdigBhe4yJsDsopmaF-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="696" y="980" as="sourcePoint" />
@@ -616,7 +621,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-246" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="673" y="1004" width="68.5" height="61" as="geometry" />
+          <mxGeometry x="677" y="906.5" width="68.5" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
