@@ -47,6 +47,9 @@
         <mxCell id="Sed3x0FeM2y7puKAJYc2-17" value="缺寝请假管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="263" y="366" width="40" height="158" as="geometry" />
         </mxCell>
+        <mxCell id="Sed3x0FeM2y7puKAJYc2-18" value="缺寝请假管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="317" y="369" width="40" height="158" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
