@@ -546,6 +546,11 @@
             <mxPoint x="613" y="969" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_btdigBhe4yJsDsopmaF-237" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_btdigBhe4yJsDsopmaF-225">
+          <mxGeometry x="0.3058" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-226" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="472.25" y="909" width="70.75" height="60" as="geometry" />
         </mxCell>
@@ -555,14 +560,19 @@
             <mxPoint x="525" y="932" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_btdigBhe4yJsDsopmaF-238" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_btdigBhe4yJsDsopmaF-228">
+          <mxGeometry x="-0.2707" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-229" value="" style="endArrow=none;html=1;rounded=0;entryX=0.582;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_btdigBhe4yJsDsopmaF-232" target="_btdigBhe4yJsDsopmaF-135">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="358" y="1031" as="sourcePoint" />
             <mxPoint x="408" y="981" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_btdigBhe4yJsDsopmaF-235" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_btdigBhe4yJsDsopmaF-229">
-          <mxGeometry x="0.3842" y="-1" relative="1" as="geometry">
+        <mxCell id="_btdigBhe4yJsDsopmaF-236" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_btdigBhe4yJsDsopmaF-229">
+          <mxGeometry x="0.1237" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
