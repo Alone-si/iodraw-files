@@ -418,7 +418,7 @@
           <mxGeometry x="319" y="568" width="66" height="64" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-160" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="546" y="810" width="94" height="54" as="geometry" />
+          <mxGeometry x="569.5" y="848" width="94" height="54" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-161" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;管理员ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="568" width="68" height="56" as="geometry" />
@@ -485,7 +485,7 @@
           <mxGeometry x="483" y="579" width="57" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-184" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="552" y="943" width="68.5" height="61" as="geometry" />
+          <mxGeometry x="566" y="1004" width="68.5" height="61" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-185" value="" style="endArrow=none;html=1;rounded=0;exitX=0.666;exitY=0.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_btdigBhe4yJsDsopmaF-54" target="_btdigBhe4yJsDsopmaF-184">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -599,7 +599,7 @@
         <mxCell id="_btdigBhe4yJsDsopmaF-240" value="申请" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="662" y="1052" width="68.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="_btdigBhe4yJsDsopmaF-241" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="_btdigBhe4yJsDsopmaF-241" value="" style="endArrow=none;html=1;rounded=0;entryX=0.064;entryY=0.048;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_btdigBhe4yJsDsopmaF-104">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="674" y="889" as="sourcePoint" />
             <mxPoint x="724" y="839" as="targetPoint" />
