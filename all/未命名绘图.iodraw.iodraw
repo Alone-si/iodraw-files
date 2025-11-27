@@ -590,6 +590,15 @@
         <mxCell id="_btdigBhe4yJsDsopmaF-232" value="申请" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="391.5" y="1000" width="71.5" height="62" as="geometry" />
         </mxCell>
+        <mxCell id="_btdigBhe4yJsDsopmaF-239" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_btdigBhe4yJsDsopmaF-54" target="_btdigBhe4yJsDsopmaF-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="667" y="1104" as="sourcePoint" />
+            <mxPoint x="717" y="1054" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_btdigBhe4yJsDsopmaF-240" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="662" y="1052" width="68.5" height="61" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
