@@ -561,10 +561,20 @@
             <mxPoint x="408" y="981" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_btdigBhe4yJsDsopmaF-235" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_btdigBhe4yJsDsopmaF-229">
+          <mxGeometry x="0.3842" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-233" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_btdigBhe4yJsDsopmaF-54" target="_btdigBhe4yJsDsopmaF-232">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="478" y="1077" as="sourcePoint" />
             <mxPoint x="386" y="974" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_btdigBhe4yJsDsopmaF-234" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_btdigBhe4yJsDsopmaF-233">
+          <mxGeometry x="-0.116" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-232" value="申请" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
