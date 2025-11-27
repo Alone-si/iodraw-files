@@ -330,16 +330,16 @@
           <mxGeometry x="1086" y="739" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-88" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;报修类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1075" y="676" width="68" height="56" as="geometry" />
+          <mxGeometry x="1031" y="701" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-89" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;具体位置&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1062" y="799" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-90" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;报修状态&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="998" y="839" width="68" height="56" as="geometry" />
+          <mxGeometry x="958" y="860" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-91" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;报修ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1007" y="656" width="68" height="56" as="geometry" />
+          <mxGeometry x="963" y="685.5" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-94" value="" style="endArrow=none;html=1;rounded=0;entryX=0.242;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_btdigBhe4yJsDsopmaF-86" target="_btdigBhe4yJsDsopmaF-90">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -409,10 +409,10 @@
           <mxGeometry x="909" y="498" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-108" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;内容&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="985" y="512.5" width="68" height="56" as="geometry" />
+          <mxGeometry x="970" y="533" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-109" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;发布时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1009" y="568.5" width="68" height="56" as="geometry" />
+          <mxGeometry x="981" y="592" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-115" value="" style="endArrow=none;html=1;rounded=0;entryX=0.016;entryY=0.677;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_btdigBhe4yJsDsopmaF-104" target="_btdigBhe4yJsDsopmaF-109">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
