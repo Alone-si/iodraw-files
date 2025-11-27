@@ -506,7 +506,7 @@
           <mxGeometry x="400" y="777" width="70" height="61" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-158" value="查看" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="749" y="740.5" width="60" height="54" as="geometry" />
+          <mxGeometry x="686" y="784" width="60" height="54" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-159" value="提交" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="800" width="51" height="50.5" as="geometry" />
