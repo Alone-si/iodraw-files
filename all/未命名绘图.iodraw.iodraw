@@ -400,16 +400,16 @@
           <mxGeometry x="860" y="643" width="98" height="54" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-105" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;通知ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="843" y="479" width="68" height="56" as="geometry" />
+          <mxGeometry x="834" y="515" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-106" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;通知类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="767" y="528" width="68" height="56" as="geometry" />
+          <mxGeometry x="794" y="577" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-107" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;标题&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="919" y="457" width="68" height="56" as="geometry" />
+          <mxGeometry x="915" y="483" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-108" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;内容&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="983" y="501" width="68" height="56" as="geometry" />
+          <mxGeometry x="985" y="512.5" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-109" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;发布时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1009" y="568.5" width="68" height="56" as="geometry" />
