@@ -323,10 +323,10 @@
           <mxGeometry x="862" y="819.4" width="89" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-87" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;问题描述&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1032" y="933" width="68" height="56" as="geometry" />
+          <mxGeometry x="1028" y="941" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-88" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;报修类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1058" y="827" width="68" height="56" as="geometry" />
+          <mxGeometry x="1051" y="877" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-89" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;具体位置&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="968" width="68" height="56" as="geometry" />
@@ -335,7 +335,7 @@
           <mxGeometry x="880" y="970" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-91" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;报修ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1001" y="771" width="68" height="56" as="geometry" />
+          <mxGeometry x="1032" y="813.4" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-94" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_btdigBhe4yJsDsopmaF-86" target="_btdigBhe4yJsDsopmaF-90">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -355,13 +355,13 @@
             <mxPoint x="863" y="676.4" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_btdigBhe4yJsDsopmaF-97" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_btdigBhe4yJsDsopmaF-86" target="_btdigBhe4yJsDsopmaF-88">
+        <mxCell id="_btdigBhe4yJsDsopmaF-97" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_btdigBhe4yJsDsopmaF-86" target="_btdigBhe4yJsDsopmaF-88">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1036" y="740.9" as="sourcePoint" />
             <mxPoint x="854" y="634.9" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_btdigBhe4yJsDsopmaF-98" value="" style="endArrow=none;html=1;rounded=0;entryX=0.332;entryY=0.953;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_btdigBhe4yJsDsopmaF-86" target="_btdigBhe4yJsDsopmaF-91">
+        <mxCell id="_btdigBhe4yJsDsopmaF-98" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.011;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_btdigBhe4yJsDsopmaF-86" target="_btdigBhe4yJsDsopmaF-91">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="804" y="684.9" as="sourcePoint" />
             <mxPoint x="854" y="634.9" as="targetPoint" />
