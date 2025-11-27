@@ -205,10 +205,10 @@
           <mxGeometry x="352" y="1039" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-60" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;角色&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="427" y="1031" width="68" height="56" as="geometry" />
+          <mxGeometry x="424" y="1089" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-61" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;性别&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="466" y="1087" width="68" height="56" as="geometry" />
+          <mxGeometry x="495" y="1074" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-62" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;手机号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="555" y="1105" width="68" height="56" as="geometry" />
