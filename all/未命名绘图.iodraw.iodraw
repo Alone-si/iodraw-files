@@ -395,34 +395,19 @@
           <mxGeometry x="696" y="487" width="98" height="54" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-105" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;报修ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="225" width="68" height="56" as="geometry" />
+          <mxGeometry x="738" y="237" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-106" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;报修类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1048" y="245" width="68" height="56" as="geometry" />
+          <mxGeometry x="806" y="257" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-107" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;问题描述&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1072" y="309" width="68" height="56" as="geometry" />
+          <mxGeometry x="830" y="321" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-108" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;具体位置&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1048" y="369" width="68" height="56" as="geometry" />
+          <mxGeometry x="806" y="381" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-109" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;报修状态&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="984" y="409" width="68" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="_btdigBhe4yJsDsopmaF-110" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;报修ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="736" y="225" width="68" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="_btdigBhe4yJsDsopmaF-111" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;报修类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="804" y="245" width="68" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="_btdigBhe4yJsDsopmaF-112" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;问题描述&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="828" y="309" width="68" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="_btdigBhe4yJsDsopmaF-113" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;具体位置&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="804" y="369" width="68" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="_btdigBhe4yJsDsopmaF-114" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;报修状态&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="409" width="68" height="56" as="geometry" />
+          <mxGeometry x="742" y="421" width="68" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
