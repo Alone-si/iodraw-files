@@ -329,6 +329,18 @@
         <mxCell id="_btdigBhe4yJsDsopmaF-87" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;状态&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="954" y="493" width="68" height="56" as="geometry" />
         </mxCell>
+        <mxCell id="_btdigBhe4yJsDsopmaF-88" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;状态&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="954" y="429" width="68" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="_btdigBhe4yJsDsopmaF-89" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;状态&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="954" y="567" width="68" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="_btdigBhe4yJsDsopmaF-90" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;状态&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="867" y="567" width="68" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="_btdigBhe4yJsDsopmaF-91" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;状态&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="867" y="429" width="68" height="56" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
