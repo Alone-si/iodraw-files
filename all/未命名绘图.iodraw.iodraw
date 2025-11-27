@@ -166,7 +166,7 @@
           <mxGeometry x="176" y="1177" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-56" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;用户名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="292.25" y="1297.81" width="68" height="56" as="geometry" />
+          <mxGeometry x="242" y="1290" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-57" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;密码&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="193" y="1116" width="68" height="56" as="geometry" />
@@ -175,19 +175,19 @@
           <mxGeometry x="201" y="1239" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-59" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;学号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="371.25" y="1309" width="68" height="56" as="geometry" />
+          <mxGeometry x="310" y="1318" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-60" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;角色&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="447.25" y="1311.81" width="68" height="56" as="geometry" />
+          <mxGeometry x="385" y="1314" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-61" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;性别&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="511.25" y="1340" width="68" height="56" as="geometry" />
+          <mxGeometry x="457" y="1327" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-62" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;手机号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="561.25" y="1295" width="68" height="56" as="geometry" />
+          <mxGeometry x="527.75" y="1308" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-63" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;邮箱&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="617.25" y="1258" width="68" height="56" as="geometry" />
+          <mxGeometry x="595.75" y="1277" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-64" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;头像&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="689.75" y="1239" width="68" height="56" as="geometry" />
