@@ -438,7 +438,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-135" value="缺寝请假" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="628" y="435" width="108" height="56" as="geometry" />
+          <mxGeometry x="802" y="414" width="108" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-136" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;请假ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="547" y="372.5" width="68" height="56" as="geometry" />
@@ -512,7 +512,7 @@
           <mxGeometry x="736" y="800" width="51" height="50.5" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-160" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="527" y="587" width="94" height="54" as="geometry" />
+          <mxGeometry x="537" y="624" width="94" height="54" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-161" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;管理员ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="435.85" y="685.5" width="68" height="56" as="geometry" />
@@ -527,7 +527,7 @@
           <mxGeometry x="413" y="623" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-165" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;密码&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="494" y="724" width="68" height="56" as="geometry" />
+          <mxGeometry x="679" y="641" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-166" value="" style="endArrow=none;html=1;rounded=0;entryX=0.582;entryY=0.053;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.094;exitY=0.985;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_btdigBhe4yJsDsopmaF-160" target="_btdigBhe4yJsDsopmaF-161">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -585,7 +585,7 @@
           <mxGeometry x="406.5" y="557" width="57" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-184" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="577" y="683" width="47" height="50" as="geometry" />
+          <mxGeometry x="591" y="739" width="47" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-185" value="" style="endArrow=none;html=1;rounded=0;exitX=0.439;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_btdigBhe4yJsDsopmaF-54" target="_btdigBhe4yJsDsopmaF-184">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
