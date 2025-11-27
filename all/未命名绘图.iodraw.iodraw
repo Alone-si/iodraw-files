@@ -187,13 +187,13 @@
           <mxGeometry x="434" y="1346" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-63" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;邮箱&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="595.75" y="1277" width="68" height="56" as="geometry" />
+          <mxGeometry x="500" y="1311" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-64" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;头像&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="667" y="1255" width="68" height="56" as="geometry" />
+          <mxGeometry x="561" y="1277" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-65" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;班级&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="621.75" y="1188" width="68" height="56" as="geometry" />
+          <mxGeometry x="639" y="1284" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-66" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;状态&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="621.75" y="1130" width="68" height="56" as="geometry" />
@@ -264,7 +264,7 @@
             <mxPoint x="785.75" y="903.8100000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_btdigBhe4yJsDsopmaF-78" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.027;exitY=0.332;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_btdigBhe4yJsDsopmaF-64" target="_btdigBhe4yJsDsopmaF-54">
+        <mxCell id="_btdigBhe4yJsDsopmaF-78" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_btdigBhe4yJsDsopmaF-64" target="_btdigBhe4yJsDsopmaF-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="735.75" y="953.8100000000001" as="sourcePoint" />
             <mxPoint x="785.75" y="903.8100000000001" as="targetPoint" />
