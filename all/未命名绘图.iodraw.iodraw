@@ -193,7 +193,7 @@
           <mxGeometry x="271" y="883" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-56" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;用户名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="234" y="933" width="68" height="56" as="geometry" />
+          <mxGeometry x="345" y="986" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-57" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;密码&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="843" width="68" height="56" as="geometry" />
@@ -202,7 +202,7 @@
           <mxGeometry x="335" y="904" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-59" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;学号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="1053" width="68" height="56" as="geometry" />
+          <mxGeometry x="356" y="1047" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-60" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;角色&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="427" y="1031" width="68" height="56" as="geometry" />
