@@ -56,7 +56,7 @@
         <mxCell id="Sed3x0FeM2y7puKAJYc2-20" value="个人信息" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="592" y="359" width="40" height="158" as="geometry" />
         </mxCell>
-        <mxCell id="Sed3x0FeM2y7puKAJYc2-21" value="个人信息" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="Sed3x0FeM2y7puKAJYc2-21" value="缺寝申请" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="644" y="359" width="40" height="158" as="geometry" />
         </mxCell>
       </root>
