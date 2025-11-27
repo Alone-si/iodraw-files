@@ -632,8 +632,8 @@
             <mxPoint x="675" y="468" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_btdigBhe4yJsDsopmaF-192" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="612" y="483" width="80" height="80" as="geometry" />
+        <mxCell id="_btdigBhe4yJsDsopmaF-192" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="612" y="507" width="62" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
