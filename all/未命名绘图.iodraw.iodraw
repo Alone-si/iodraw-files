@@ -190,16 +190,16 @@
           <mxGeometry x="547" y="869.4" width="93" height="47" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-55" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;用户ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="860.4" width="68" height="56" as="geometry" />
+          <mxGeometry x="271" y="883" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-56" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;用户名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="366" y="921" width="68" height="56" as="geometry" />
+          <mxGeometry x="234" y="933" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-57" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;密码&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="368" y="982" width="68" height="56" as="geometry" />
+          <mxGeometry x="240" y="993" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-58" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;真实姓名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1038" width="68" height="56" as="geometry" />
+          <mxGeometry x="265" y="1049" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-59" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;学号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="469" y="1071" width="68" height="56" as="geometry" />
