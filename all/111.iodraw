@@ -25,8 +25,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sed3x0FeM2y7puKAJYc2-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="352" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="Sed3x0FeM2y7puKAJYc2-7" value="学生端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="592" y="244" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
