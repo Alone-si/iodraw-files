@@ -67,8 +67,13 @@
             <mxPoint x="621" y="382" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_btdigBhe4yJsDsopmaF-17" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_btdigBhe4yJsDsopmaF-16">
+        <mxCell id="_btdigBhe4yJsDsopmaF-17" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_btdigBhe4yJsDsopmaF-16">
           <mxGeometry x="0.261" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_btdigBhe4yJsDsopmaF-18" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_btdigBhe4yJsDsopmaF-16">
+          <mxGeometry x="-0.5233" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
