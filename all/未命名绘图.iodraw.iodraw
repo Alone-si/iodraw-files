@@ -478,7 +478,7 @@
         <mxCell id="_btdigBhe4yJsDsopmaF-137" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;请假类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="584" y="406" width="68" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="_btdigBhe4yJsDsopmaF-138" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;通知类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_btdigBhe4yJsDsopmaF-138" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;审批状态&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="663" y="406" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-139" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;通知类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
