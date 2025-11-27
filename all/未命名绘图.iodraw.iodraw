@@ -202,10 +202,10 @@
         <mxCell id="_btdigBhe4yJsDsopmaF-58" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;真实姓名&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="211" y="748" width="68" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="_btdigBhe4yJsDsopmaF-59" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;楼层&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_btdigBhe4yJsDsopmaF-59" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;学号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="283" y="748" width="68" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="_btdigBhe4yJsDsopmaF-60" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;楼层&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_btdigBhe4yJsDsopmaF-60" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;角色&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="356" y="748" width="68" height="56" as="geometry" />
         </mxCell>
         <mxCell id="_btdigBhe4yJsDsopmaF-61" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;楼层&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
