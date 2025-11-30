@@ -146,6 +146,15 @@
         <mxCell id="03Enc2M-yTt6Q1yT_foa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Sed3x0FeM2y7puKAJYc2-21" target="Sed3x0FeM2y7puKAJYc2-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="03Enc2M-yTt6Q1yT_foa-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Sed3x0FeM2y7puKAJYc2-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="219" y="386" as="sourcePoint" />
+            <mxPoint x="320" y="397" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="03Enc2M-yTt6Q1yT_foa-5" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;入住管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="199" y="385" width="40" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
