@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Sed3x0FeM2y7puKAJYc2-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;智能宿舍管理系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Sed3x0FeM2y7puKAJYc2-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;智能宿舍管理系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="103" width="186" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="Sed3x0FeM2y7puKAJYc2-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;管理员端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Sed3x0FeM2y7puKAJYc2-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;管理员端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="234" y="172" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Sed3x0FeM2y7puKAJYc2-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="Sed3x0FeM2y7puKAJYc2-1" edge="1">
@@ -29,7 +29,7 @@
         <mxCell id="Sed3x0FeM2y7puKAJYc2-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;学生端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="556" y="172" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Sed3x0FeM2y7puKAJYc2-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;学生管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
+        <mxCell id="Sed3x0FeM2y7puKAJYc2-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;学生管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="199" y="265" width="40" height="158" as="geometry" />
         </mxCell>
         <mxCell id="Sed3x0FeM2y7puKAJYc2-15" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;宿舍楼管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
