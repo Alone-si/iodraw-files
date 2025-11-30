@@ -10,7 +10,7 @@
         <mxCell id="5Py6h88RQKMtM3T_cBt3-2" value="商品管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="341" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5Py6h88RQKMtM3T_cBt3-3" value="基础数据管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5Py6h88RQKMtM3T_cBt3-3" value="用户购买管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="509" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Py6h88RQKMtM3T_cBt3-4" value="基础数据管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
