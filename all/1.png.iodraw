@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="fRklzVwaFJNW3Inx-kjo">
-    <mxGraphModel dx="449" dy="284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="261" dy="165" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,10 +70,13 @@
         <mxCell id="54K99bbfcGmK6kY1sEZA-10" value="管理公告信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="130" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="54K99bbfcGmK6kY1sEZA-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="54K99bbfcGmK6kY1sEZA-10">
+        <mxCell id="54K99bbfcGmK6kY1sEZA-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="54K99bbfcGmK6kY1sEZA-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="215.9" y="319.67" as="sourcePoint" />
+            <mxPoint x="220" y="350" as="sourcePoint" />
             <mxPoint x="313.9" y="192.67000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="219" y="352" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
