@@ -30,25 +30,25 @@
           <mxGeometry x="570" y="172" width="92" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Sed3x0FeM2y7puKAJYc2-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;学生管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="199" y="265" width="40" height="158" as="geometry" />
+          <mxGeometry x="199" y="265" width="40" height="157" as="geometry" />
         </mxCell>
         <mxCell id="Sed3x0FeM2y7puKAJYc2-15" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;宿舍楼管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="253" y="265" width="40" height="158" as="geometry" />
+          <mxGeometry x="253" y="265" width="40" height="157" as="geometry" />
         </mxCell>
         <mxCell id="Sed3x0FeM2y7puKAJYc2-16" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;宿舍管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="307" y="265" width="40" height="158" as="geometry" />
+          <mxGeometry x="307" y="265" width="40" height="157" as="geometry" />
         </mxCell>
         <mxCell id="Sed3x0FeM2y7puKAJYc2-17" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;缺寝请假管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="361" y="265" width="40" height="158" as="geometry" />
+          <mxGeometry x="361" y="265" width="40" height="157" as="geometry" />
         </mxCell>
         <mxCell id="Sed3x0FeM2y7puKAJYc2-18" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;报修处理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="416" y="265" width="40" height="158" as="geometry" />
+          <mxGeometry x="416" y="265" width="40" height="157" as="geometry" />
         </mxCell>
         <mxCell id="Sed3x0FeM2y7puKAJYc2-19" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;通知管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="469" y="265" width="40" height="158" as="geometry" />
+          <mxGeometry x="469" y="265" width="40" height="157" as="geometry" />
         </mxCell>
         <mxCell id="Sed3x0FeM2y7puKAJYc2-20" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;个人信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="522" y="265" width="40" height="158" as="geometry" />
+          <mxGeometry x="522" y="265" width="40" height="157" as="geometry" />
         </mxCell>
         <mxCell id="Sed3x0FeM2y7puKAJYc2-21" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;缺寝申请&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="574" y="265" width="40" height="110" as="geometry" />
