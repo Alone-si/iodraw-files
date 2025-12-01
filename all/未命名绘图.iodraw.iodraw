@@ -19,6 +19,9 @@
             <mxPoint x="413.58" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Z4Kkkm-1rDxW7ONn7Yqw-10" value="Mapper数据库访问层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="420" width="166" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
