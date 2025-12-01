@@ -18,9 +18,12 @@
         </mxCell>
         <mxCell id="Qmha-znoQUtajHtKDQV2-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="279.9999999999999" y="1022.8571428571429" as="sourcePoint" />
+            <mxPoint x="220" y="1000" as="sourcePoint" />
             <mxPoint x="720" y="1000" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Qmha-znoQUtajHtKDQV2-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="655" y="988" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
