@@ -70,7 +70,7 @@
         <mxCell id="Qmha-znoQUtajHtKDQV2-27" value="商品管理" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="470" y="1120" width="40" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Qmha-znoQUtajHtKDQV2-28" value="评价购买商品" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="Qmha-znoQUtajHtKDQV2-28" value="查看订单列表" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="520" y="1120" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Qmha-znoQUtajHtKDQV2-29" value="评价购买商品" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-lr;" vertex="1" parent="1">
