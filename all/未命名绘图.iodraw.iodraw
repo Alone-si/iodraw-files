@@ -7,8 +7,8 @@
         <mxCell id="Qmha-znoQUtajHtKDQV2-1" value="爱宠联盟购物管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="930" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Qmha-znoQUtajHtKDQV2-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1080" width="120" height="60" as="geometry" />
+        <mxCell id="Qmha-znoQUtajHtKDQV2-3" value="爱宠联盟购物管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1040" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
