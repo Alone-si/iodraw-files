@@ -5,39 +5,39 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Qmha-znoQUtajHtKDQV2-1" value="爱宠联盟购物管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="930" width="180" height="40" as="geometry" />
+          <mxGeometry x="450" y="930" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qmha-znoQUtajHtKDQV2-3" value="普通用户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1040" width="100" height="40" as="geometry" />
+          <mxGeometry x="240" y="1040" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qmha-znoQUtajHtKDQV2-4" value="商家用户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1040" width="100" height="40" as="geometry" />
+          <mxGeometry x="490" y="1040" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qmha-znoQUtajHtKDQV2-5" value="平台管理员端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1040" width="100" height="40" as="geometry" />
+          <mxGeometry x="740" y="1040" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qmha-znoQUtajHtKDQV2-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="1000" as="sourcePoint" />
-            <mxPoint x="720" y="1000" as="targetPoint" />
+            <mxPoint x="280" y="1000" as="sourcePoint" />
+            <mxPoint x="790" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qmha-znoQUtajHtKDQV2-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qmha-znoQUtajHtKDQV2-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="1030" as="sourcePoint" />
-            <mxPoint x="720" y="1000" as="targetPoint" />
+            <mxPoint x="790" y="1030" as="sourcePoint" />
+            <mxPoint x="790" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qmha-znoQUtajHtKDQV2-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="1040" as="sourcePoint" />
-            <mxPoint x="210" y="1000" as="targetPoint" />
+            <mxPoint x="280" y="1040" as="sourcePoint" />
+            <mxPoint x="280" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qmha-znoQUtajHtKDQV2-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Qmha-znoQUtajHtKDQV2-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="1040" as="sourcePoint" />
-            <mxPoint x="440" y="880" as="targetPoint" />
+            <mxPoint x="540" y="1040" as="sourcePoint" />
+            <mxPoint x="510" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qmha-znoQUtajHtKDQV2-18" value="评价购买商品" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-lr;" vertex="1" parent="1">
