@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="QdKUgniBONwqVDE44pMw">
-    <mxGraphModel dx="713" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="863" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,22 +41,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Qmha-znoQUtajHtKDQV2-18" value="评价购买商品" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1120" width="40" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="Qmha-znoQUtajHtKDQV2-19" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="70" y="1120" width="40" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Qmha-znoQUtajHtKDQV2-21" value="管理宠物档案" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="Qmha-znoQUtajHtKDQV2-19" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="120" y="1120" width="40" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Qmha-znoQUtajHtKDQV2-22" value="管理收货地址" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="Qmha-znoQUtajHtKDQV2-21" value="管理宠物档案" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="170" y="1120" width="40" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Qmha-znoQUtajHtKDQV2-23" value="收藏商品" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="Qmha-znoQUtajHtKDQV2-22" value="管理收货地址" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="220" y="1120" width="40" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Qmha-znoQUtajHtKDQV2-24" value="商品购物" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="Qmha-znoQUtajHtKDQV2-23" value="收藏商品" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="270" y="1120" width="40" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Qmha-znoQUtajHtKDQV2-24" value="商品购物" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1120" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Qmha-znoQUtajHtKDQV2-26" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="420" y="1120" width="40" height="180" as="geometry" />
