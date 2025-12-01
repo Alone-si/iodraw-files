@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z4Kkkm-1rDxW7ONn7Yqw-10" value="Mapper数据库访问层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="331" y="400" width="166" height="20" as="geometry" />
+          <mxGeometry x="331" y="440" width="166" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Z4Kkkm-1rDxW7ONn7Yqw-11" value="Mapper数据库访问层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="331" y="350" width="166" height="20" as="geometry" />
@@ -33,8 +33,8 @@
         </mxCell>
         <mxCell id="Z4Kkkm-1rDxW7ONn7Yqw-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="413.58" y="460" as="sourcePoint" />
-            <mxPoint x="413.58" y="430" as="targetPoint" />
+            <mxPoint x="413" y="490" as="sourcePoint" />
+            <mxPoint x="413" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
