@@ -22,11 +22,14 @@
         <mxCell id="Z4Kkkm-1rDxW7ONn7Yqw-10" value="Mapper数据库访问层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="331" y="440" width="166" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Z4Kkkm-1rDxW7ONn7Yqw-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z4Kkkm-1rDxW7ONn7Yqw-11" target="Z4Kkkm-1rDxW7ONn7Yqw-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z4Kkkm-1rDxW7ONn7Yqw-11" value="Mapper数据库访问层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="375" width="166" height="20" as="geometry" />
+          <mxGeometry x="331" y="390" width="166" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Z4Kkkm-1rDxW7ONn7Yqw-12" value="Mapper数据库访问层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="331" y="300" width="166" height="20" as="geometry" />
+          <mxGeometry x="331" y="340" width="166" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Z4Kkkm-1rDxW7ONn7Yqw-13" value="Mapper数据库访问层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="331" y="250" width="166" height="20" as="geometry" />
@@ -41,6 +44,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="413" y="440" as="sourcePoint" />
             <mxPoint x="413" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z4Kkkm-1rDxW7ONn7Yqw-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413" y="390" as="sourcePoint" />
+            <mxPoint x="413" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
