@@ -40,7 +40,7 @@
             <mxPoint x="440" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qmha-znoQUtajHtKDQV2-13" value="爱宠联盟购物管理系统" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="Qmha-znoQUtajHtKDQV2-13" value="爱宠联盟购物管理系统" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;rotation=105;" vertex="1" parent="1">
           <mxGeometry x="200" y="1200" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
