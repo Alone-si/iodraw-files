@@ -26,7 +26,7 @@
           <mxGeometry x="331" y="390" width="166" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Z4Kkkm-1rDxW7ONn7Yqw-12" value="Mapper数据库访问层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="331" y="300" width="166" height="20" as="geometry" />
+          <mxGeometry x="331" y="340" width="166" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Z4Kkkm-1rDxW7ONn7Yqw-13" value="Mapper数据库访问层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="331" y="250" width="166" height="20" as="geometry" />
