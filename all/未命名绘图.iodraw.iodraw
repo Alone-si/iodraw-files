@@ -25,6 +25,9 @@
         <mxCell id="Z4Kkkm-1rDxW7ONn7Yqw-11" value="Mapper数据库访问层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="331" y="390" width="166" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Z4Kkkm-1rDxW7ONn7Yqw-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z4Kkkm-1rDxW7ONn7Yqw-12" target="Z4Kkkm-1rDxW7ONn7Yqw-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z4Kkkm-1rDxW7ONn7Yqw-12" value="Mapper数据库访问层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="331" y="340" width="166" height="20" as="geometry" />
         </mxCell>
