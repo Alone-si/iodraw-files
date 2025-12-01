@@ -59,19 +59,19 @@
           <mxGeometry x="320" y="1120" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Qmha-znoQUtajHtKDQV2-26" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1120" width="40" height="180" as="geometry" />
+          <mxGeometry x="380" y="1120" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Qmha-znoQUtajHtKDQV2-27" value="商品管理" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1120" width="40" height="180" as="geometry" />
+          <mxGeometry x="430" y="1120" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Qmha-znoQUtajHtKDQV2-28" value="查看订单列表" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1120" width="40" height="180" as="geometry" />
+          <mxGeometry x="480" y="1120" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Qmha-znoQUtajHtKDQV2-29" value="处理订单发货" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1120" width="40" height="180" as="geometry" />
+          <mxGeometry x="530" y="1120" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Qmha-znoQUtajHtKDQV2-30" value="店铺管理" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1120" width="40" height="180" as="geometry" />
+          <mxGeometry x="580" y="1120" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Qmha-znoQUtajHtKDQV2-31" value="管理公告信息" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="670" y="1120" width="40" height="180" as="geometry" />
