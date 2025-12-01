@@ -10,7 +10,7 @@
         <mxCell id="Z4Kkkm-1rDxW7ONn7Yqw-3" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="384" y="570" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Z4Kkkm-1rDxW7ONn7Yqw-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z4Kkkm-1rDxW7ONn7Yqw-8" value="Mapper数据库访问层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="331" y="470" width="166" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Z4Kkkm-1rDxW7ONn7Yqw-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
