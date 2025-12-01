@@ -31,6 +31,9 @@
         <mxCell id="Z4Kkkm-1rDxW7ONn7Yqw-13" value="Mapper数据库访问层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="331" y="270" width="166" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Z4Kkkm-1rDxW7ONn7Yqw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z4Kkkm-1rDxW7ONn7Yqw-2" target="Z4Kkkm-1rDxW7ONn7Yqw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
