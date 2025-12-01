@@ -18,6 +18,11 @@
             <mxRectangle x="310" y="220" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Z4Kkkm-1rDxW7ONn7Yqw-6" value="" style="swimlane;startSize=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="310" y="220" width="50" height="40" as="geometry">
+            <mxRectangle x="310" y="220" width="200" height="200" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
