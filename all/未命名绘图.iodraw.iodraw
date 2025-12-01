@@ -40,8 +40,8 @@
             <mxPoint x="440" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qmha-znoQUtajHtKDQV2-17" value="评价购买商品" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;rotation=0;textDirection=vertical-lr;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1160" width="37.56" height="180" as="geometry" />
+        <mxCell id="Qmha-znoQUtajHtKDQV2-18" value="评价购买商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1210" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
