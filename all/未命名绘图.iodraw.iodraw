@@ -13,9 +13,9 @@
         <mxCell id="Z4Kkkm-1rDxW7ONn7Yqw-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="370" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Z4Kkkm-1rDxW7ONn7Yqw-5" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="220" width="200" height="200" as="geometry">
-            <mxRectangle x="310" y="220" width="50" height="40" as="alternateBounds" />
+        <mxCell id="Z4Kkkm-1rDxW7ONn7Yqw-5" value="" style="swimlane;startSize=0;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="310" y="220" width="50" height="40" as="geometry">
+            <mxRectangle x="310" y="220" width="200" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
