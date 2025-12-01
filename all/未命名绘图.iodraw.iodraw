@@ -34,10 +34,10 @@
             <mxPoint x="247" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qmha-znoQUtajHtKDQV2-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.46;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Qmha-znoQUtajHtKDQV2-1">
+        <mxCell id="Qmha-znoQUtajHtKDQV2-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.46;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="597.88" y="1043" as="sourcePoint" />
-            <mxPoint x="597.88" y="971" as="targetPoint" />
+            <mxPoint x="539.79" y="1046" as="sourcePoint" />
+            <mxPoint x="539.7099999999999" y="971" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qmha-znoQUtajHtKDQV2-18" value="评价购买商品" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;textDirection=vertical-lr;" vertex="1" parent="1">
