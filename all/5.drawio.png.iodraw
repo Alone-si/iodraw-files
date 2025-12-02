@@ -232,9 +232,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c6XpcG9GFQdLHqW6W2NV-192" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="620" y="210" width="80" height="60" as="geometry" />
+          <mxGeometry x="610" y="193" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c6XpcG9GFQdLHqW6W2NV-194" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=20;" parent="1" source="c6XpcG9GFQdLHqW6W2NV-167" edge="1">
+        <mxCell id="c6XpcG9GFQdLHqW6W2NV-194" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=20;" parent="1" source="c6XpcG9GFQdLHqW6W2NV-167" edge="1" target="c6XpcG9GFQdLHqW6W2NV-192">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="310" as="sourcePoint" />
             <mxPoint x="650" y="260" as="targetPoint" />
@@ -565,7 +565,7 @@
             <mxPoint x="531" y="336" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c6XpcG9GFQdLHqW6W2NV-266" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=20;" parent="1" target="c6XpcG9GFQdLHqW6W2NV-26" edge="1">
+        <mxCell id="c6XpcG9GFQdLHqW6W2NV-266" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=20;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" target="c6XpcG9GFQdLHqW6W2NV-26" edge="1" source="c6XpcG9GFQdLHqW6W2NV-167">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="330" as="sourcePoint" />
             <mxPoint x="700" y="300" as="targetPoint" />
