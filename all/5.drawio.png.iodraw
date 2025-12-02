@@ -130,7 +130,7 @@
           <mxGeometry x="945" y="772" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="c6XpcG9GFQdLHqW6W2NV-167" value="商家用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="557" y="294" width="90" height="50" as="geometry" />
+          <mxGeometry x="530" y="285" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="c6XpcG9GFQdLHqW6W2NV-168" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;" parent="1" target="c6XpcG9GFQdLHqW6W2NV-167" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1130,6 +1130,12 @@
         </mxCell>
         <mxCell id="c6XpcG9GFQdLHqW6W2NV-232" value="包含" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="494" y="895" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T2hvQB1C3t7QdBT9J-ji-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1.033;exitY=0.649;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="c6XpcG9GFQdLHqW6W2NV-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="504" y="351" as="sourcePoint" />
+            <mxPoint x="554" y="301" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
