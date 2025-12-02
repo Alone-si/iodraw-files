@@ -271,8 +271,7 @@
             <mxPoint x="1140" y="670" as="sourcePoint" />
             <mxPoint x="1190" y="620" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1150" y="970" />
-              <mxPoint x="1205" y="820" />
+              <mxPoint x="1120" y="956" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1044,10 +1043,10 @@
           <mxGeometry x="930" y="866" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="c6XpcG9GFQdLHqW6W2NV-378" value="类别名称" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="860" width="80" height="50" as="geometry" />
+          <mxGeometry x="1020" y="845" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="c6XpcG9GFQdLHqW6W2NV-379" value="类别ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1110" y="775" width="80" height="50" as="geometry" />
+          <mxGeometry x="1070" y="784" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="c6XpcG9GFQdLHqW6W2NV-380" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="c6XpcG9GFQdLHqW6W2NV-377" edge="1" target="c6XpcG9GFQdLHqW6W2NV-165">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
